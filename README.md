@@ -1,6 +1,5 @@
 # my_runner
-
-{EPITECH} | First year | C Graphical Programming project
+# {EPITECH} | First year | C Graphical Programming project
 
 In this project, you are asked to make a small video game based on the rules of a finite Endless Running Game.
 
@@ -24,7 +23,7 @@ See the subject for further details !
 
 ========================
 
-1st semester C Graphical programming unit
+## 1st semester C Graphical programming unit
 
 This project is a little different from the others as it is commented (+ I didn't respected the norm) but I really wanted to make something in the end despite the fact that the project had ended
 If you have trouble with CSFML I hope it can help you a little
